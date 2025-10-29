@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tradiciones Mexicanas - Día de Muertos</title>
+</head>
+<body>
+    <header>
+        <h1>Tradiciones Mexicanas: Día de Muertos</h1>
+        <p>Celebrando la vida y recordando a quienes se adelantaron</p>
+    </header>
+
+    <nav>
+        <a href="#origen">Origen del Día de Muertos</a>
+        <a href="#catrina">La Catrina</a>
+        <a href="#ofrenda">La Ofrenda</a>
+    </nav>
+
+    <section id="origen">
+        <h2>Origen del Día de Muertos</h2>
+        <p>Origen europeo y cristiano
+
+El Día de Muertos no es de origen prehispánico, ni un sincretismo directo entre lo indígena y lo europeo.
+Proviene de las festividades católicas medievales europeas del 1 y 2 de noviembre, establecidas por la Iglesia:
+1 de noviembre: Día de Todos los Santos, para honrar a los santos conocidos y desconocidos.
+2 de noviembre: Día de los Fieles Difuntos, para orar por las almas del purgatorio.
+Estas fechas sustituyeron o cristianizaron antiguas fiestas paganas, como el Samhain celta (antecedente de Halloween).
+Llegada a México
+Los frailes franciscanos trajeron estas celebraciones al siglo XVI, poco después de la conquista.
+Los indígenas adoptaron las fiestas católicas, pero trasladaron sus propias prácticas funerarias a estas fechas.
+No fue un sincretismo (mezcla externa), sino una síntesis cultural: los indígenas reinterpretaron el culto cristiano desde su cosmovisión de respeto a los muertos.
+Ritos prehispánicos
+Los mexicas y otros pueblos tenían varias fiestas dedicadas a los difuntos en distintas fechas del calendario (Miccailhuitontli, Hueymiccailhuitl, Tepeilhuitl, Tititl).
+Estas ceremonias estaban ligadas al ciclo agrícola y al paso de las estaciones, no al 1 y 2 de noviembre.
+Aunque fueron prohibidas tras la conquista, sus símbolos y creencias sobrevivieron disfrazadas en prácticas cristianas.
+Transformación en la época colonial y moderna
+Durante la Colonia y el siglo XIX, el Día de Muertos se celebraba con misas, reliquias, dulces y panes con forma de huesos (de tradición europea).
+Con la creación de cementerios laicos en el siglo XIX, la fiesta se trasladó de las iglesias a los panteones, volviéndose más popular y festiva.
+Se generalizó el uso de ofrendas domésticas, comidas, flores y velas, costumbres con raíces tanto indígenas como cristianas populares.
+Del rito religioso al símbolo nacional
+A fines del siglo XIX y durante el XX, la fiesta perdió parte de su sentido religioso y se volvió más folclórica y profana.
+En la época posrevolucionaria (con Lázaro Cárdenas, 1934–1940), el Estado reinvenció el Día de Muertos como símbolo nacionalista y laico, desvinculándolo de la Iglesia.
+Intelectuales como Rivera, Kahlo y Paz ayudaron a consolidar esta visión, que con el tiempo se difundió como si fuera de origen prehispánico.
+Situación actual
+Hoy, el Día de Muertos es una mezcla cultural reinterpretada, no un sincretismo original.
+Su forma moderna (altares, calaveras, desfiles, turismo) tiene más que ver con tradiciones europeas, reinterpretaciones coloniales y la reinvención nacionalista del siglo XX que con las ceremonias indígenas originales.</p>
+
+        <p>La festividad se celebra el <strong>1 y 2 de noviembre</strong>, coincidiendo con el Día de Todos los Santos y el Día de los Fieles Difuntos. Durante estos días, las familias colocan altares con flores, velas, comida y objetos que recuerdan a sus seres queridos.</p>
+
+        <img src="https://inah.gob.mx/images/especiales/20231020/foto14.jpg" alt="Ofrenda de Día de Muertos">
+    </section>
+
+    <section id="catrina">
+        <h2>Origen de La Catrina</h2>
+        <p>La Catrina es uno de los símbolos más reconocidos del Día de Muertos. Su origen proviene de una ilustración creada por el grabador mexicano <strong>José Guadalupe Posada</strong> a inicios del siglo XX, llamada <em>La Calavera Garbancera</em>. Esta figura representaba a las personas que renegaban de sus raíces indígenas y pretendían ser europeas.</p>
+
+        <p>Más tarde, el pintor <strong>Diego Rivera</strong> la incluyó en su mural <em>“Sueño de una tarde dominical en la Alameda Central”</em> y le dio el nombre con el que se conoce hoy: <strong>La Catrina</strong>. Con el tiempo, se transformó en un símbolo de la muerte festiva, elegante y colorida que caracteriza la visión mexicana de la vida y la muerte.</p>
+
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/046/182/296/small/day-of-the-dead-catrina-statue-in-colorful-traditional-attire-celebrating-mexican-culture-photo.jpeg" alt="La Catrina de José Guadalupe Posada">
+    </section>
+
+    <section id="ofrenda">
+        <h2>La Ofrenda del Día de Muertos</h2>
+        <p>Las ofrendas son altares llenos de simbolismo. Cada elemento tiene un significado especial:</p>
+        <ul>
+            <li><strong>Velas:</strong> iluminan el camino del alma que regresa.</li>
+            <li><strong>Flores de cempasúchil:</strong> su color y aroma guían a los difuntos.</li>
+            <li><strong>Pan de muerto:</strong> representa el ciclo de la vida y la muerte.</li>
+            <li><strong>Fotografías:</strong> recuerdan a los seres queridos.</li>
+            <li><strong>Comida y bebida:</strong> se ofrecen los platillos favoritos del difunto.</li>
+        </ul>
+        <img src="https://img.travesiasdigital.com/cdn-cgi/image/width=1034,quality=90,format=auto,onerror=redirect/2019/10/ofrenda-de-muertos.jpg" alt="Altar de Día de Muertos">
+    </section>
+        <style>
+        body {
+            font-family: "Segoe UI", 'Times New Roman', Times, serif;
+            background: linear-gradient(to bottom, #000000, #ff6f00);
+            color: #fff3e0;
+            margin: 0;
+            padding: 0;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        header {
+            background-image: url("https://www.pueblaonline.com.mx/wp-content/uploads/2024/10/Imagenes-de-dia-de-muertos.webp");
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-align: center;
+            padding: 80px 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        header::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            z-index: 0;
+        }
+
+        header h1, header p {
+            position: relative;
+            z-index: 1;
+        }
+
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+        }
+
+        nav {
+            background-color: #ff6f00;
+            text-align: center;
+            padding: 12px 0;
+            position: relative;
+            z-index: 1;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #000;
+        }
+
+        section {
+            padding: 30px;
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: rgba(0, 0, 0, 0.7);
+            border-radius: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        h2 {
+            color: #ffa726;
+        }
+
+        p, ul, li {
+            color: #fff3e0;
+            line-height: 1.6;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 60%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ff9800;
+        }
+
+        footer {
+            background-color: #000;
+            color: #ffa000;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+
+</body>
+</html>
